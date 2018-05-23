@@ -1,0 +1,24 @@
+header
+{
+    width: 900px;
+    margin: auto;
+}
+main
+{
+    width: 900px;
+    margin: auto;
+}
+img
+{
+    width: 900px;
+    height: 508px;
+}
+h1
+{
+    font-size: 52px;
+    font-family: 'Dosis', sans-serif;
+}
+p
+{
+    font-family: "Helvetica Neue";
+}
