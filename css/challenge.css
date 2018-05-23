@@ -8,6 +8,12 @@ main
     width: 900px;
     margin: auto;
 }
+#global
+{
+    width: 994px;
+    background-color: white;
+    box-shadow: 5px grey;
+}
 img
 {
     width: 900px;
@@ -17,8 +23,57 @@ h1
 {
     font-size: 52px;
     font-family: 'Dosis', sans-serif;
+    color: #505050;
 }
 p
 {
     font-family: "Helvetica Neue";
+    font-size: 13px;
+}
+nav
+{
+    font-size: 13px;
+
+}
+nav li
+{
+    display: inline-block;
+    list-style-type: none; position: relative; width: 140px; background-color: #E0E0E0;
+}
+ul #Home #Page #Galleries #Masonry #Builder #Bundled
+{
+    display: none; position: absolute; left: 140px; top: 0px; margin: 0px; padding: 0px;
+}
+li
+{
+
+}
+li:hover ul.navbar, li li:hover
+{
+    display: block;
+}
+body
+{
+    background-image:url(bg.png);
+    background-size: cover;
+}
+h2
+{
+    font-size: 28px;
+    font-family: 'Dosis', sans-serif;
+    margin-top: 38px;
+    text-align: center;
+}
+legend
+{
+    font-size: 10px;
+    margin-top: 22px;
+    text-align: center;
+    margin-bottom: 30px;
+    color: #A6A6A6;
+}
+span
+{
+    font-weight: bold;
+
 }
