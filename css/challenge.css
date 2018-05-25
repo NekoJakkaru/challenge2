@@ -173,10 +173,31 @@ footer p
 
 #fin
 {
-    box-sizing: content-box;
     background-color: #FAFAFA;
     padding-top: 1em;
     padding-left: 1em;
-    margin-left: 50px;
-    margin-right: 50px;
+    width: 900px;
+    margin: auto;
+
+}
+article
+{
+    width: 23%;
+    display: inline-block;
+    padding-right: 10px;
+    vertical-align: top;
+
+}
+h3
+{
+    font-size: 18px;
+    font-weight: bolder;
+    margin-bottom: 1em;
+
+}
+article li
+{
+    font-size: 13px;
+    line-height: 1.5em;
+
 }
