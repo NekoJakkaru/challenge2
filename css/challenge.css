@@ -153,3 +153,30 @@ color: #505050;
 {
     margin-bottom: 2em;
 }
+
+hr
+{
+    width: 900px;
+    height: 40px;
+    background-color: #FAFAFA;
+    border: none;
+}
+
+footer p
+{
+    text-align: center;
+    color: #505050;
+    font-weight: bold;
+    padding-top: 37px;
+    padding-bottom: 37px;
+}
+
+#fin
+{
+    box-sizing: content-box;
+    background-color: #FAFAFA;
+    padding-top: 1em;
+    padding-left: 1em;
+    margin-left: 50px;
+    margin-right: 50px;
+}
