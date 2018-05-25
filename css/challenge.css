@@ -201,3 +201,10 @@ article li
     line-height: 1.5em;
 
 }
+
+#loupe
+{
+    width: 34px;
+    height: 22px;
+    float : right;
+}
